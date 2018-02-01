@@ -1,0 +1,14 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Tag Lib Exercise</short-name>
+
+    <uri>http://edu.matc/tagexercise</uri>
+
+    <tag>
+        <name>Message</name>
+
+        <tag-class>matc.entjava.ExerciseThree</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
